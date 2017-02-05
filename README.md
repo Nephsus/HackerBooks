@@ -43,7 +43,7 @@ quedado fina ( he modificado tu clase AsyncData, pero se me ha ocurrido una form
 que al pulsar sobre un libro, la animación del navigation controller no me funciona correctamente, 
 pero sólo pasa aleatoriamente ( y no sé porque leches pasa....).
 
-En fin, tengo que mejorar y trabajar menos.
+También quiero meterle autolayout a la vista de detalle que no me ha sido posible (tengo que volver a ver el vídeo del lunes).En fin, tengo que mejorar y trabajar menos.
 
 Un saludo
 David.
