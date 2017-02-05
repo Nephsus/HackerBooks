@@ -31,7 +31,7 @@ Le añadiría las siguientes funcionalidades:
       +Búsqueda por autores.
       +Evaluar al libro y añadir opiniones (tipo amazon)
       +Sección de novedades, es decir, en funcion de los libros que seleccione un usuario como sus favoritos,
-       me gustara ofrecerle más libros similares con una preview, por si le interesa.
+       me gustaría poder ofrecerle más libros similares, con una especie de preview, por si le interesa comprarlos.
 
 No puedo subir esta app a la apple store porque me echarían por cutre..... Pero se me ocurre que podramos monetizar esta app
 en función de las descargas de los pdf's. Podríamos habilitar un apartado, para que el usuario registrase su tarjeta de 
