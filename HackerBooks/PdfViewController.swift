@@ -62,7 +62,7 @@ class PdfViewController: UIViewController {
     let asyncData = AsyncData(url: URL(string:self.model.urlPdf)!, defaultData: PdfViewController.defaultImageAsData)
     asyncData.delegate = self
     webView.load( asyncData.data, mimeType: "application/pdf",
-    textEncodingName: "utf8", baseURL: URL(string:"http://www.google.com")!)
+    textEncodingName: "utf8", baseURL: URL(string:"http://www.google.es")!)
     
     }
     
@@ -88,7 +88,7 @@ extension PdfViewController: AsyncDataDelegate{
         let data = try? Data(contentsOf: url)
         
         webView.load( data!, mimeType: "application/pdf",
-                      textEncodingName: "utf8", baseURL:  URL(string:"http://www.google.com")!)
+                      textEncodingName: "utf8", baseURL:  URL(string:"http://www.google.es")!)
     }
     
 }
