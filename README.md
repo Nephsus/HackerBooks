@@ -29,7 +29,7 @@ controlador.
 Le añadiría las siguientes funcionalidades:
 
       +Búsqueda por autores.
-      +Evaluar al libro y añadir opiniones (tipo amazon)
+      +Evaluar el libro y añadir opiniones (tipo amazon).
       +Sección de novedades, es decir, en funcion de los libros que seleccione un usuario como sus favoritos,
        me gustaría poder ofrecerle más libros similares, con una especie de preview, por si le interesa comprarlos.
 
